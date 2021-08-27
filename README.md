@@ -1,4 +1,4 @@
-Follow these steps here To enable WSL. <br/>
+Follow these steps here To enable WSL.  https://github.com/ivanjrt/WSL2-PlatformREQ-Installer <br/>
 
 In this case I will show you how to do the Ubuntu 18 WSL version for Windows 10 <br/>
 
